@@ -1,0 +1,35 @@
+STN_NUM,SENSOR_NUM,MIN(OBS_TIME_UTC),MAX(OBS_TIME_UTC),database,state,Name,LAT,LONG,Comment
+58019,1,26/11/2005 0:36,18/08/2022 20:35,rain_accum_nsw,NSW,Doon Doon (Mccabes Road),-28.5314,153.3151,
+58147,1,26/11/2005 1:07,18/08/2022 19:44,rain_accum_nsw,NSW,The Channon,-28.6792,153.2775,
+58167,1,25/11/2005 23:16,18/08/2022 18:43,rain_accum_nsw,NSW,Uki (Tweed River),-28.4147,153.3339,
+558000,1,25/11/2005 23:04,18/08/2022 18:42,rain_accum_nsw,NSW,Repentance (Coopers Creek),-28.6408,153.4131,
+558005,1,25/11/2005 23:32,18/08/2022 20:57,rain_accum_nsw,NSW,Lacks Creek (Middle Pocket),-28.4944,153.4847,
+558008,1,26/11/2005 0:46,18/08/2022 20:22,rain_accum_nsw,NSW,Mullumbimby Creek (Mullumbimby Ck),-28.5542,153.4367,
+558018,1,26/03/2009 3:06,18/08/2022 20:40,rain_accum_nsw,NSW,Palmers Road,-28.434,153.295,
+558025,1,26/11/2005 1:21,18/08/2022 18:14,rain_accum_nsw,NSW,Mullumbimby (Chincogan ),-28.525,153.4792,
+558028,1,25/11/2005 23:06,18/08/2022 20:10,rain_accum_nsw,NSW,Clarrie Hall Dam (Doon Doon Creek),-28.4403,153.3042,
+558031,1,26/11/2005 0:22,18/08/2022 18:16,rain_accum_nsw,NSW,Dunoon,-28.6756,153.3225,
+558033,1,26/11/2005 0:52,18/08/2022 20:39,rain_accum_nsw,NSW,Goonengerry,-28.5925,153.4194,
+558034,1,26/11/2005 0:19,18/08/2022 20:19,rain_accum_nsw,NSW,Mullumbimby (Upper Main Arm),-28.5031,153.3817,
+558036,1,25/11/2005 23:44,18/08/2022 20:15,rain_accum_nsw,NSW,Myocum,-28.5833,153.517,
+558046,1,25/11/2005 23:00,13/08/2012 23:00,rain_accum_nsw,NSW,Cudgera Lake,-28.4,153.5139,
+558049,1,26/11/2005 15:00,30/04/2012 5:00,rain_accum_nsw,NSW,Huonbrook,-28.5639,153.3806,
+558053,1,25/11/2005 23:00,14/08/2012 3:00,rain_accum_nsw,NSW,Main Arm,-28.5028,153.3833,
+558066,1,26/11/2005 3:58,14/08/2019 22:42,rain_accum_nsw,NSW,Byron Bay (Belongil Creek),-28.6355,153.582,
+558078,1,6/04/2010 5:04,18/08/2022 18:05,rain_accum_nsw,NSW,Terania Creek,-28.588,153.2989,
+558083,1,27/04/2011 6:27,18/08/2022 20:01,rain_accum_nsw,NSW,Burringbar,-28.4372,153.4729,
+558084,1,27/04/2011 3:33,18/08/2022 18:48,rain_accum_nsw,NSW,Cudgera Creek (Pottsville Reservoir),-28.402,153.533,
+558094,1,21/05/2013 2:28,18/08/2022 19:56,rain_accum_nsw,NSW,Upper Crabbes Creek (Crabbes Creek Rd),-28.4635,153.4526,
+558095,1,15/04/2013 0:36,18/08/2022 20:19,rain_accum_nsw,NSW,Wooyung Rd (Crabbes Creek),-28.467,153.53,
+558096,1,15/04/2013 2:58,18/08/2022 18:34,rain_accum_nsw,NSW,Yelgun (Yelgun Creek),-28.485,153.514,
+558099,0,15/08/2019 1:42,15/08/2019 4:42,rain_accum_nsw,NSW,Byron Bay (Belongil Ck Bridge),-28.6378,153.5951,includes minimal additional days prior to sensor 1
+558099,1,16/08/2019 4:42,18/08/2022 19:19,rain_accum_nsw,NSW,Byron Bay (Belongil Ck Bridge),-28.6378,153.5951,
+558104,1,31/07/2019 6:44,18/08/2022 18:30,rain_accum_nsw,NSW,Burringbar North Arm (Harwood Rd),-28.405,153.46,
+558104,0,26/07/2019 3:44,31/07/2019 3:44,rain_accum_nsw,NSW,Burringbar North Arm (Harwood Rd),-28.405,153.46,includes minimal additional days prior to sensor 1
+558106,0,26/07/2019 3:04,31/07/2019 4:37,rain_accum_nsw,NSW,Burringbar Rd (Burringbar Creek),-28.444,153.442,includes minimal additional days prior to sensor 1
+558106,1,31/07/2019 6:04,24/06/2022 18:40,rain_accum_nsw,NSW,Burringbar Rd (Burringbar Creek),-28.444,153.442,
+558107,1,31/07/2019 6:56,18/08/2022 19:52,rain_accum_nsw,NSW,Upper Burringbar Rd,-28.4531,153.406,
+558107,0,26/07/2019 3:56,31/07/2019 4:51,rain_accum_nsw,NSW,Upper Burringbar Rd,-28.4531,153.406,includes minimal additional days prior to sensor 1
+558109,1,16/08/2019 5:29,18/08/2022 18:38,rain_accum_nsw,NSW,Coopers Shoot Repeater,-28.6777,153.596,
+558112,0,15/02/2021 7:57,18/02/2021 22:57,rain_accum_nsw,NSW,Yelgun Creek (Helen St Bridge),-28.4974,153.5449,includes minimal additional days prior to sensor 1 - tho significant rainfall accum over period (some overlap with sensor 1)
+558112,1,18/02/2021 22:59,18/08/2022 20:19,rain_accum_nsw,NSW,Yelgun Creek (Helen St Bridge),-28.4974,153.5449,

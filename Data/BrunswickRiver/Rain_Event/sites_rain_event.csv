@@ -1,0 +1,10 @@
+STN_NUM,SENSOR_NUM,MIN(OBS_TIME_UTC),MAX(OBS_TIME_UTC),database,state,Name,LAT,LONG,Comment
+58216,2,6/11/2007 23:00,18/08/2022 21:00,rain_event_nsw,NSW,Cape Byron Aws,-28.6399,153.6358,
+558000,1,2/10/2008 23:00,1/10/2009 23:00,rain_event_nsw,NSW,Repentance (Coopers Creek),-28.6408,153.4131,lots in associated rain_accum for this Stn
+558025,1,13/09/2010 2:00,16/10/2010 10:00,rain_event_nsw,NSW,Mullumbimby (Chincogan ),-28.525,153.4792,lots in associated rain_accum for this Stn
+558031,1,2/10/2008 23:00,7/09/2010 23:00,rain_event_nsw,NSW,Dunoon,-28.6756,153.3225,lots in associated rain_accum for this Stn
+558033,1,2/10/2008 23:00,7/09/2010 23:00,rain_event_nsw,NSW,Goonengerry,-28.5925,153.4194,"few and far between, eg only 6 rows for 2 yr time range - lots in associated rain_accum for this Stn"
+558036,2,17/08/2012 11:00,18/08/2022 20:00,rain_event_nsw,NSW,Myocum,-28.5833,153.517,
+558046,1,5/05/2012 19:25,18/08/2022 20:00,rain_event_nsw,NSW,Cudgera Lake,-28.4,153.5139,
+558049,1,5/05/2012 19:35,18/08/2022 20:00,rain_event_nsw,NSW,Huonbrook,-28.5639,153.3806,
+558053,1,4/03/2008 22:00,18/08/2022 17:00,rain_event_nsw,NSW,Main Arm,-28.5028,153.3833,
