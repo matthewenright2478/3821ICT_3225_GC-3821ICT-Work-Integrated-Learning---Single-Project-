@@ -1,12 +1,3 @@
-STN_NUM,SENSOR_NUM,MIN(OBS_TIME_UTC),MAX(OBS_TIME_UTC),database,state,Name,LAT,LONG,Comments
-558004,1,25/11/2005 22:51,18/08/2022 20:51,water_lvl_nsw,NSW,The Pocket (Marshalls Creek),-28.5047,153.4772,
-558005,1,25/11/2005 23:32,18/08/2022 20:57,water_lvl_nsw,NSW,Lacks Creek (Middle Pocket),-28.4944,153.4847,
-558006,1,25/11/2005 22:52,18/08/2022 20:55,water_lvl_nsw,NSW,Mullumbimby (Brunswick River),-28.5528,153.4944,
-558007,1,25/11/2005 23:01,18/08/2022 19:29,water_lvl_nsw,NSW,Durrumbul (Brunswick River),-28.5328,153.4567,"Prefered | Telemetry=ERTS - Overlap, more records each day early in date range / less end of date range"
-558007,3,5/01/2006 5:46,18/08/2022 20:00,water_lvl_nsw,NSW,Durrumbul (Brunswick River),-28.5328,153.4567,"Alternative 1 | Telemetry=FTP -Overlap, less records each day early in date range / more end of date range - more decimal places"
-558008,1,26/11/2005 0:46,31/07/2022 21:23,water_lvl_nsw,NSW,Mullumbimby Creek (Mullumbimby Ck),-28.5542,153.4367,
-558020,1,25/11/2005 22:52,18/08/2022 20:37,water_lvl_nsw,NSW,Billinudgel (Marshalls Creek),-28.5016,153.5268,
-558063,1,25/11/2005 23:00,18/08/2022 20:31,water_lvl_nsw,NSW,Brunswick Heads (Tidal),-28.537,153.5521,
-558096,1,15/04/2013 0:27,18/08/2022 18:34,water_lvl_nsw,NSW,Yelgun (Yelgun Creek),-28.485,153.514,
-558108,1,25/02/2020 15:45,18/08/2022 20:31,water_lvl_nsw,NSW,Orana Bridge (Marshalls Creek),-28.5158,153.5479,
-558112,1,15/02/2021 5:24,18/08/2022 20:40,water_lvl_nsw,NSW,Yelgun Creek (Helen St Bridge),-28.4974,153.5449,
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4f92a90531027c05cbd2df786b515e2d8394b7cc01a8a70007a333226d86279
+size 1528

@@ -1,0 +1,12 @@
+{
+	"ARGS":
+	{
+		"WL_CSV"	: "/Users/luke/T2-2022/3821ICT/3821ICT_3225_GC-3821ICT-Work-Integrated-Learning---Single-Project-/Data/BrunswickRiver_WL_1"
+		"RN_CSV"	: "/Users/luke/T2-2022/3821ICT/3821ICT_3225_GC-3821ICT-Work-Integrated-Learning---Single-Project-/Data/BrunswickRiver/Rain_Accum/"
+		"DST_DIR"	: "/Users/luke/T2-2022/3821ICT/3821ICT_3225_GC-3821ICT-Work-Integrated-Learning---Single-Project-/Data"
+	},
+	"FLAGS":
+	{
+	
+	}
+}
