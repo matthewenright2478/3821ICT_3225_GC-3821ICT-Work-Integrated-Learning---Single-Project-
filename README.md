@@ -1,5 +1,7 @@
 # Storm Chasers - Machine Learning for Extreme Weather Forecasting
 
+![Alt text](./img/flood.jpg?raw=true "Title")
+
 #### Authors: Luke Kelly, Matthew Enright
 
 # Requirements
